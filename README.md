@@ -35,7 +35,7 @@ They can be installed using:
 
 ```bash
 pip install torch torchvision numpy matplotlib
-
+```
 ## Usage
 
 Run the main notebook located in the `notebooks/` directory. The notebook is self-contained and includes the necessary steps for training, sampling, and evaluation.
