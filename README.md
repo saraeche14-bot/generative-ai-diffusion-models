@@ -14,8 +14,11 @@ The objective of this project is to study and implement modern generative modeli
 
 ## Repository Structure
 project_root/
+
 ├── notebooks/ # Notebooks containing experiments, results, and explanations
+
 ├── src/ # Source code (diffusion processes, models, utilities)
+
 ├── report/ # Final report in PDF format
 
 
